@@ -7,4 +7,8 @@ public class Cat {
     private String name;
     //hahahah
 
+    public void eat(){
+        System.out.println("cat eat..........");
+    }
+
 }
