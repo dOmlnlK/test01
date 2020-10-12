@@ -11,4 +11,8 @@ public class Cat {
         System.out.println("cat eat..........");
     }
 
+    public void run(){
+        System.out.println("cat run>>>>>>>");
+    }
+
 }
